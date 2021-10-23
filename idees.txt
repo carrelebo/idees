@@ -1,0 +1,2 @@
+1. Une application qui permet de pouvoir virtualiser une partition de notre système qui est en dual boot et de pouvoir la contrôler,
+par exemple pouvoir démarrer sa partition Linux sur Windows en graphique, et quand on démarre sur notre partition Linux, on a les changement que l'on a effectuer.
